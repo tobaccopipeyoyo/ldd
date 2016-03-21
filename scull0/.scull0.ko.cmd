@@ -1,0 +1,1 @@
+cmd_/home/dev-mach/ldd/scull0/scull0.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-32-generic/scripts/module-common.lds --build-id  -o /home/dev-mach/ldd/scull0/scull0.ko /home/dev-mach/ldd/scull0/scull0.o /home/dev-mach/ldd/scull0/scull0.mod.o
